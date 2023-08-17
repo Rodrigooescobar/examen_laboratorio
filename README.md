@@ -19,4 +19,4 @@ Aclaraciones:
 
 ● En todos los casos se deberá trabajar con una copia de la lista origina
 
-H
+

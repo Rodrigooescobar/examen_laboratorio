@@ -10,8 +10,8 @@ ordenar de manera ascendente ('asc') o descendente ('desc')
 anteriormente [1]
 6. Salir
 Aclaraciones:
-● Los puntos deben ser accedidos mediante un menú. Para todas las opciones, 
-validar lo ingresado por consola con RegEx
+
+● Los puntos deben ser accedidos mediante un menú. Para todas las opciones, validar lo ingresado por consola con RegEx
 ● El set de datos proviene de un json
 ● Realizar las validaciones que crea pertinentes
 ● En todos los casos se deberá trabajar con una copia de la lista origina

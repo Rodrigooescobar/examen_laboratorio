@@ -1,4 +1,4 @@
-# examen_laboratorio
+# Examen laboratorio (phyton)
 Primer Parcial Laboratorio de Computación I
 1. Listar los personajes ordenados por altura. Preguntar al usuario si lo quiere 
 ordenar de manera ascendente ('asc') o descendente ('desc')
